@@ -1,6 +1,7 @@
 <?php
 // Ilyasa Fathur Rahman
 // SGB-Team Reborn
+
 set_time_limit(0);
 error_reporting(0);
         function generateRandomString($length = 10) {
