@@ -1,12 +1,11 @@
-# UHIVE
-UHIVE BOT Register With Referral
+# UHIVE-BOT
 
 # USAGE
-$ pkg update
-$ pkg upgrade
-$ pkg install php
-$ pkg install git
-$ git clone https://github.com/PenulisCode/UHIVE.git
+$ pkg update <br>
+$ pkg upgrade<br>
+$ pkg install php <br>
+$ pkg install git <br>
+$ git clone https://github.com/PenulisCode/UHIVE.git <br>
 $ cd UHIVE
   
 # RUN
